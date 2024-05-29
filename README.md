@@ -1,24 +1,20 @@
-Tip Time - Solution Code
-=================================
+# Tip Time - Android App
+AD 340 Assignment
 
-Solution code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+## Objective
+The objective of this assignment is to enhance your understanding of Android development using Jetpack Compose by adding a new feature to an existing application.
+
+## Tutorial
+Follow the steps in the  "Android Basics with Compose: Calculate a custom tip": Calculate a custom tip (https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip)
+
+## Customization
+### Add Leading Icons to Text Fields
+Modify the tip calculator app to include leading icons in the text fields. Ensure the icons are relevant and enhance the user interface.
+### Add an Additional Feature
+Adding a round-up feature
+
+## Demonstration video
 
 
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+## APK file
+Directory: app/build/ouptuts/apk
