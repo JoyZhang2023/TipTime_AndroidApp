@@ -14,7 +14,7 @@ Modify the tip calculator app to include leading icons in the text fields. Ensur
 Adding a round-up feature
 
 ## Demonstration video
-
+https://github.com/JoyZhang2023/TipTime_AndroidApp/assets/137982978/989d8bc7-53bc-44e0-bb6d-52400561176f
 
 ## APK file
 Directory: app/build/ouptuts/apk
